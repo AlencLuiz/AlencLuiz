@@ -1,7 +1,7 @@
 
 ### Olá, Eu sou o Luiz Alencar 👋🏽
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Luiizzwq)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luiizalencar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-eduardo-bb8557326/)
 
 ![Alencar GitHub stats](https://github-readme-stats.vercel.app/api?username=AlencLuiz&show_icons=true&theme=dracula)
